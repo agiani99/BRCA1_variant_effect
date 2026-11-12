@@ -1,0 +1,22 @@
+name: brca1
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - requests
+  - networkx
+  - biopython
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - plotly
+  - snakemake
+  - pip
+  - pip:
+      - freesasa
+      - shap
+      - fair-esm
+      - torch
