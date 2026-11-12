@@ -1,0 +1,167 @@
+variant,pos,wt,mut,uniprot_id,uniprot_desc,source
+S4F,4,S,F,VAR_070458,in BC; uncertain significance; dbSNP:rs786203152,uniprot
+E10K,10,E,K,VAR_020679,in BC and BROVCA1,uniprot
+V11A,11,V,A,VAR_007754,found in breast-ovarian cancer patients; uncertain significance; dbSNP:rs80357017,uniprot
+M18T,18,M,T,VAR_063899,in BC; pathogenic; dbSNP:rs80356929,uniprot
+I21V,21,I,V,VAR_007755,found in breast-ovarian cancer patients; uncertain significance; dbSNP:rs80357406,uniprot
+L22S,22,L,S,VAR_007756,in BC; dbSNP:rs80357438,uniprot
+E23K,23,E,K,VAR_020680,in BC and BROVCA1,uniprot
+L30F,30,L,F,VAR_035947,in a breast cancer sample; somatic mutation,uniprot
+K45Q,45,K,Q,VAR_070459,in BC; benign; functionally neutral in vitro; dbSNP:rs769650474,uniprot
+C61G,61,C,G,VAR_007757,in BC and OC; pathogenic; no interaction with BAP1; dbSNP:rs28897672,uniprot
+C64G,64,C,G,VAR_007758,in BC; no interaction with BAP1; dbSNP:rs80357064,uniprot
+C64Y,64,C,Y,VAR_007759,in BC; pathogenic; dbSNP:rs55851803,uniprot
+D67Y,67,D,Y,VAR_070460,in BC; benign; functionally neutral in vitro; dbSNP:rs80357102,uniprot
+R71K,71,R,K,VAR_020681,in BC; uncertain significance; dbSNP:rs80356913,uniprot
+Y105C,105,Y,C,VAR_070461,in dbSNP:rs28897673,uniprot
+N132K,132,N,K,VAR_070462,in BC; benign; functionally neutral in vitro; dbSNP:rs80357413,uniprot
+P142H,142,P,H,VAR_070463,in BC; benign; functionally neutral in vitro; dbSNP:rs55971303,uniprot
+L147F,147,L,F,VAR_070464,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs748876625,uniprot
+S153R,153,S,R,VAR_052077,in dbSNP:rs28897674,uniprot
+L165P,165,L,P,VAR_070465,in BC; uncertain significance; functionally neutral in vitro,uniprot
+R170W,170,R,W,VAR_070466,in BC; benign; functionally neutral in vitro; dbSNP:rs80357325,uniprot
+S186Y,186,S,Y,VAR_070467,in BC; benign; functionally neutral in vitro; dbSNP:rs55688530,uniprot
+V191I,191,V,I,VAR_070468,in BC; benign; functionally neutral in vitro; dbSNP:rs80357090,uniprot
+E227K,227,E,K,VAR_008759,in ovarian cancer; uncertain significance,uniprot
+T231M,231,T,M,VAR_070469,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357001,uniprot
+H239R,239,H,R,VAR_007760,in dbSNP:rs80357396,uniprot
+D245V,245,D,V,VAR_070470,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80356865,uniprot
+L246V,246,L,V,VAR_070471,in BC; benign; functionally neutral in vitro; dbSNP:rs28897675,uniprot
+V271L,271,V,L,VAR_070472,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357244,uniprot
+V271M,271,V,M,VAR_007761,in BC; dbSNP:rs80357244,uniprot
+G275S,275,G,S,VAR_019944,in dbSNP:rs8176153,uniprot
+P346S,346,P,S,VAR_008760,in BC; benign; dbSNP:rs80357015,uniprot
+Q356R,356,Q,R,VAR_007762,in dbSNP:rs1799950,uniprot
+I379M,379,I,M,VAR_007764,in dbSNP:rs56128296,uniprot
+F461L,461,F,L,VAR_007765,in BC; benign; dbSNP:rs56046357,uniprot
+Y465D,465,Y,D,VAR_007766,in BC; dbSNP:rs397508869,uniprot
+R507I,507,R,I,VAR_007767,found in breast-ovarian cancer patients; uncertain significance; dbSNP:rs80357224,uniprot
+G552V,552,G,V,VAR_007768,in BC; dbSNP:rs397508893,uniprot
+N656I,656,N,I,VAR_020682,,uniprot
+L668F,668,L,F,VAR_070473,in BC; benign; functionally neutral in vitro; dbSNP:rs80357250,uniprot
+D693N,693,D,N,VAR_007769,in dbSNP:rs4986850,uniprot
+D695N,695,D,N,VAR_070474,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs28897681,uniprot
+N723D,723,N,D,VAR_020110,in dbSNP:rs4986845,uniprot
+D749Y,749,D,Y,VAR_020683,in BC; dbSNP:rs80357114,uniprot
+L758F,758,L,F,VAR_035948,in a breast cancer sample; somatic mutation,uniprot
+V772A,772,V,A,VAR_007770,in dbSNP:rs80357467,uniprot
+G778C,778,G,C,VAR_035949,in a breast cancer sample; somatic mutation,uniprot
+P798L,798,P,L,VAR_070475,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs876660005,uniprot
+N810Y,810,N,Y,VAR_070476,in BC; benign; functionally neutral in vitro; dbSNP:rs28897682,uniprot
+K820E,820,K,E,VAR_007771,in dbSNP:rs56082113,uniprot
+T826K,826,T,K,VAR_007772,in BC; benign; functionally neutral in vitro; dbSNP:rs28897683,uniprot
+H835Y,835,H,Y,VAR_020684,in BROVCA1; uncertain significance; dbSNP:rs751656678,uniprot
+R841Q,841,R,Q,VAR_070477,in BC; benign; functionally neutral in vitro; dbSNP:rs80357337,uniprot
+R841W,841,R,W,VAR_007773,in BROVCA1; benign; dbSNP:rs1800709,uniprot
+Y856H,856,Y,H,VAR_020685,in BC; benign; dbSNP:rs80356892,uniprot
+R866C,866,R,C,VAR_070478,in dbSNP:rs41286300,uniprot
+R866Q,866,R,Q,VAR_020686,in BC; uncertain significance,uniprot
+P871L,871,P,L,VAR_007774,in dbSNP:rs799917,uniprot
+H888Y,888,H,Y,VAR_020687,in BC; uncertain significance; dbSNP:rs80357480,uniprot
+L892S,892,L,S,VAR_007775,in BC; dbSNP:rs397508994,uniprot
+I925L,925,I,L,VAR_021913,in dbSNP:rs4986847,uniprot
+G960D,960,G,D,VAR_007776,in BC; dbSNP:rs397509022,uniprot
+F989S,989,F,S,VAR_020111,in dbSNP:rs4986848,uniprot
+M1008I,1008,M,I,VAR_007777,in dbSNP:rs1800704,uniprot
+T1025I,1025,T,I,VAR_007778,in BC; dbSNP:rs397509034,uniprot
+E1038G,1038,E,G,VAR_007779,in dbSNP:rs16941,uniprot
+S1040N,1040,S,N,VAR_007780,in dbSNP:rs4986852,uniprot
+V1047A,1047,V,A,VAR_007781,in BC; dbSNP:rs397509037,uniprot
+E1060A,1060,E,A,VAR_020688,in dbSNP:rs80357184,uniprot
+S1101N,1101,S,N,VAR_070479,in BC; benign; functionally neutral in vitro; dbSNP:rs41293447,uniprot
+S1139I,1139,S,I,VAR_020689,in BC; benign; dbSNP:rs80357228,uniprot
+S1140G,1140,S,G,VAR_019945,in BC; benign; functionally neutral in vitro; dbSNP:rs2227945,uniprot
+S1140N,1140,S,N,VAR_070480,in BC; uncertain significance; functionally neutral in vitro,uniprot
+P1150S,1150,P,S,VAR_007782,in BC; benign; dbSNP:rs80357272,uniprot
+K1183R,1183,K,R,VAR_007783,in dbSNP:rs16942,uniprot
+S1187I,1187,S,I,VAR_020690,in BC and BROVCA1,uniprot
+Q1200H,1200,Q,H,VAR_020691,in BC and BROVCA1; benign; dbSNP:rs56214134,uniprot
+R1204I,1204,R,I,VAR_020692,in BC,uniprot
+K1207N,1207,K,N,VAR_020693,in BC,uniprot
+E1210G,1210,E,G,VAR_020694,in BC; uncertain significance; dbSNP:rs1060502347,uniprot
+E1214K,1214,E,K,VAR_070481,in BC; benign; functionally neutral in vitro; dbSNP:rs80356923,uniprot
+S1217Y,1217,S,Y,VAR_020695,in BC and BROVCA1,uniprot
+E1219D,1219,E,D,VAR_007784,in dbSNP:rs80356876,uniprot
+F1226L,1226,F,L,VAR_020696,in BROVCA1,uniprot
+N1236K,1236,N,K,VAR_052078,in BC; benign; functionally neutral in vitro; dbSNP:rs28897687,uniprot
+R1243G,1243,R,G,VAR_020697,in BROVCA1,uniprot
+E1250K,1250,E,K,VAR_052079,in dbSNP:rs28897686,uniprot
+L1267S,1267,L,S,VAR_070482,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs587782190,uniprot
+E1282V,1282,E,V,VAR_070483,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357217,uniprot
+S1297P,1297,S,P,VAR_020698,in BC; uncertain significance; dbSNP:rs1450793674,uniprot
+S1301R,1301,S,R,VAR_070485,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs273900719,uniprot
+E1346K,1346,E,K,VAR_070486,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357407,uniprot
+R1347G,1347,R,G,VAR_007785,in dbSNP:rs28897689,uniprot
+V1378I,1378,V,I,VAR_070487,in BC; benign; functionally neutral in vitro; dbSNP:rs28897690,uniprot
+M1400V,1400,M,V,VAR_070488,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357306,uniprot
+K1406N,1406,K,N,VAR_008761,in dbSNP:rs1800707,uniprot
+L1407P,1407,L,P,VAR_070489,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357492,uniprot
+M1411T,1411,M,T,VAR_020699,in BC and OC; uncertain significance; decreased interaction with PALB2; dbSNP:rs273900729,uniprot
+S1431P,1431,S,P,VAR_007786,,uniprot
+R1443G,1443,R,G,VAR_007787,in BC; benign; functionally neutral in vitro; dbSNP:rs41293455,uniprot
+R1443Q,1443,R,Q,VAR_020112,in dbSNP:rs4986849,uniprot
+S1448G,1448,S,G,VAR_070490,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357486,uniprot
+S1486C,1486,S,C,VAR_070491,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs397507232,uniprot
+R1495M,1495,R,M,VAR_063900,in BC; dbSNP:rs80357389,uniprot
+S1512I,1512,S,I,VAR_007788,in dbSNP:rs1800744,uniprot
+V1534M,1534,V,M,VAR_070492,in BC; benign; functionally neutral in vitro; dbSNP:rs55815649,uniprot
+T1561I,1561,T,I,VAR_007789,found in breast cancer; uncertain significance; dbSNP:rs56158747,uniprot
+R1589P,1589,R,P,VAR_070493,in BC; uncertain significance; functionally neutral in vitro,uniprot
+K1606E,1606,K,E,VAR_007790,in dbSNP:rs80356943,uniprot
+S1613G,1613,S,G,VAR_007791,in dbSNP:rs1799966,uniprot
+T1620A,1620,T,A,VAR_019946,in dbSNP:rs8176219,uniprot
+A1623G,1623,A,G,VAR_063901,in BROVCA1; major splicing aberration identified with this mutant; dbSNP:rs80356862,uniprot
+M1628T,1628,M,T,VAR_007793,in dbSNP:rs4986854,uniprot
+M1628V,1628,M,V,VAR_007792,found in breast and ovarian cancer patients; uncertain significance; dbSNP:rs80357465,uniprot
+P1637L,1637,P,L,VAR_007794,in dbSNP:rs80357048,uniprot
+A1641P,1641,A,P,VAR_008762,in ovarian cancer; uncertain significance; dbSNP:rs1800726,uniprot
+S1651F,1651,S,F,VAR_070494,in BC; uncertain significance; dbSNP:rs80356938,uniprot
+S1651P,1651,S,P,VAR_070495,in BC; uncertain significance; dbSNP:rs879254042,uniprot
+M1652I,1652,M,I,VAR_007795,in dbSNP:rs1799967,uniprot
+S1655F,1655,S,F,VAR_070496,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs80357390,uniprot
+F1662C,1662,F,C,VAR_052080,in dbSNP:rs28897695,uniprot
+V1665M,1665,V,M,VAR_020700,in dbSNP:rs80357169,uniprot
+T1685A,1685,T,A,VAR_063902,in BC; pathogenic; dbSNP:rs80356890,uniprot
+T1685I,1685,T,I,VAR_063903,in BROVCA1; pathogenic,uniprot
+H1686Q,1686,H,Q,VAR_070497,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs397509218,uniprot
+H1686R,1686,H,R,VAR_070498,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs730882166,uniprot
+M1689R,1689,M,R,VAR_063904,in BC; uncertain significance; dbSNP:rs80357061,uniprot
+K1690Q,1690,K,Q,VAR_020701,in some patients with sporadic breast cancer; uncertain significance; dbSNP:rs397507239,uniprot
+T1691I,1691,T,I,VAR_070500,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs80357034,uniprot
+D1692N,1692,D,N,VAR_008763,in ovarian cancer; uncertain significance; dbSNP:rs80187739,uniprot
+C1697R,1697,C,R,VAR_020702,in OC; pathogenic; dbSNP:rs80356993,uniprot
+R1699Q,1699,R,Q,VAR_070501,in BC; pathogenic; strongly reduces affinity for a BRIP1 phosphopeptide; functionally impaired in vitro; dbSNP:rs41293459,uniprot
+R1699W,1699,R,W,VAR_075666,"in BC, OC and FANCS; impairs protein stability; functionally impaired in vitro; dbSNP:rs55770810",uniprot
+G1706A,1706,G,A,VAR_070502,in BC; benign; dbSNP:rs80356860,uniprot
+G1706E,1706,G,E,VAR_063905,in BC; pathogenic; dbSNP:rs80356860,uniprot
+A1708E,1708,A,E,VAR_007796,in BC; abolishes ACACA binding; dbSNP:rs28897696,uniprot
+V1713G,1713,V,G,VAR_007797,,uniprot
+S1715R,1715,S,R,VAR_063906,in BC; pathogenic; dbSNP:rs80357094,uniprot
+W1718C,1718,W,C,VAR_070503,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs80357239,uniprot
+T1720A,1720,T,A,VAR_070504,in BC; benign; functionally neutral in vitro; no effect on in vitro phosphorylation by ATR; dbSNP:rs56195342,uniprot
+E1735K,1735,E,K,VAR_070505,in BC; uncertain significance; dbSNP:rs397509238,uniprot
+V1736A,1736,V,A,VAR_070506,in BC and FANCS; pathogenic; decreased localization to DNA damage sites and reduced interaction with UIMC1/RAP80; dbSNP:rs45553935,uniprot
+G1738R,1738,G,R,VAR_063907,in BC; pathogenic; dbSNP:rs80356937,uniprot
+D1739G,1739,D,G,VAR_070507,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs80357227,uniprot
+D1739V,1739,D,V,VAR_070508,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs80357227,uniprot
+H1746Q,1746,H,Q,VAR_070509,in BC; uncertain significance; dbSNP:rs786202389,uniprot
+P1749R,1749,P,R,VAR_007798,in ovarian cancer; uncertain significance; abolishes ACACA binding and strongly reduces BRIP1 binding; dbSNP:rs80357462,uniprot
+R1753T,1753,R,T,VAR_070510,in BC; uncertain significance; dbSNP:rs397509246,uniprot
+L1764P,1764,L,P,VAR_063908,in BC; pathogenic; functionally impaired in vitro; dbSNP:rs80357281,uniprot
+I1766S,1766,I,S,VAR_063909,in BC; pathogenic; dbSNP:rs80357463,uniprot
+C1767S,1767,C,S,VAR_070511,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs1597804426,uniprot
+G1770V,1770,G,V,VAR_070512,in BC; pathogenic; functionally impaired in vitro; dbSNP:rs863224765,uniprot
+M1775K,1775,M,K,VAR_063212,in BC; pathogenic; strongly reduced transcription transactivation; abolishes interaction with BRIP1 and RBBP8; dbSNP:rs41293463,uniprot
+M1775R,1775,M,R,VAR_007799,in BC; pathogenic; alters protein stability and abolishes ACACA and BRIP1 binding; dbSNP:rs41293463,uniprot
+P1776S,1776,P,S,VAR_008764,in ovarian cancer; uncertain significance; dbSNP:rs1800757,uniprot
+L1780P,1780,L,P,VAR_079607,"in BC, BROVCA1 and OC; uncertain significance; dbSNP:rs80357474",uniprot
+W1782C,1782,W,C,VAR_070513,in BC; uncertain significance; functionally neutral in vitro,uniprot
+L1786P,1786,L,P,VAR_020704,in BROVCA1; uncertain significance; dbSNP:rs398122697,uniprot
+G1788V,1788,G,V,VAR_063910,in BC; pathogenic; dbSNP:rs80357069,uniprot
+A1789T,1789,A,T,VAR_070514,in BC; uncertain significance; functionally impaired in vitro; dbSNP:rs80357078,uniprot
+E1794D,1794,E,D,VAR_070515,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs397509275,uniprot
+V1804D,1804,V,D,VAR_070516,in BC; benign; functionally neutral in vitro; dbSNP:rs80356920,uniprot
+P1812R,1812,P,R,VAR_070517,in BC; uncertain significance; functionally neutral in vitro,uniprot
+P1812S,1812,P,S,VAR_008765,in ovarian cancer; uncertain significance; dbSNP:rs1800751,uniprot
+W1837R,1837,W,R,VAR_070518,in BC; pathogenic; functionally impaired in vitro; dbSNP:rs80356959,uniprot
+H1862L,1862,H,L,VAR_070519,in BC; uncertain significance; functionally neutral in vitro; dbSNP:rs80357183,uniprot

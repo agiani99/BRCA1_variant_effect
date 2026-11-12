@@ -1,0 +1,37 @@
+set,domain,score,n,n_LOF,AUROC,AUPRC,kind,trained_on,features
+all SGE,all,p_lof (all features),1683,388.0,0.8589917605381523,0.7523514106516999,external,,
+all SGE,all,esm_llr,1683,388.0,0.7826951399116346,0.6862118541903248,external,,
+all SGE,all,rule_score,1683,388.0,0.8526648887473629,0.6886125092849051,external,,
+all SGE,all,ppi_risk_max,1683,388.0,0.5380776579230188,0.27886131308722484,external,,
+all SGE,RING,p_lof (all features),509,123.0,0.8536164118117866,0.7709547599826054,external,,
+all SGE,RING,esm_llr,509,123.0,0.8213909600235898,0.7262408479483321,external,,
+all SGE,RING,rule_score,509,123.0,0.8698765744134125,0.7643267163188733,external,,
+all SGE,RING,ppi_risk_max,509,123.0,0.5156072286111462,0.28143706290900256,external,,
+all SGE,BRCT,p_lof (all features),1094,265.0,0.8486810660718758,0.7448832374392277,external,,
+all SGE,BRCT,esm_llr,1094,265.0,0.7633065525638982,0.6760758284474122,external,,
+all SGE,BRCT,rule_score,1094,265.0,0.8345449165851105,0.6676698257432298,external,,
+all SGE,BRCT,ppi_risk_max,1094,265.0,0.5463481803491362,0.29169438304281403,external,,
+not ClinVar-labelled (independent),all,p_lof (all features),1376,198.0,0.8436229870864845,0.6177694641788046,external,,
+not ClinVar-labelled (independent),all,esm_llr,1376,198.0,0.733982438990928,0.5296780977445243,external,,
+not ClinVar-labelled (independent),all,rule_score,1376,198.0,0.8192579444701684,0.528858696819306,external,,
+not ClinVar-labelled (independent),all,ppi_risk_max,1376,198.0,0.558786078098472,0.2013052188058682,external,,
+not ClinVar-labelled (independent),RING,p_lof (all features),415,58.0,0.8277793876171158,0.5565061574420673,external,,
+not ClinVar-labelled (independent),RING,esm_llr,415,58.0,0.7214816961267265,0.46740090041715965,external,,
+not ClinVar-labelled (independent),RING,rule_score,415,58.0,0.8270549599150004,0.568408877119652,external,,
+not ClinVar-labelled (independent),RING,ppi_risk_max,415,58.0,0.5630252100840336,0.19655252656882224,external,,
+not ClinVar-labelled (independent),BRCT,p_lof (all features),892,140.0,0.8362699468085106,0.6435985373008567,external,,
+not ClinVar-labelled (independent),BRCT,esm_llr,892,140.0,0.7375,0.5644248021347505,external,,
+not ClinVar-labelled (independent),BRCT,rule_score,892,140.0,0.804540273556231,0.5311385835009728,external,,
+not ClinVar-labelled (independent),BRCT,ppi_risk_max,892,140.0,0.5612699468085106,0.21575140524198655,external,,
+,,,1683,,0.7540749512398995,0.6541508835024364,sge_cv,SGE,esm_only
+,,,509,,0.7911137790134377,0.6821444678555313,sge_cv,SGE,esm_only [RING]
+,,,1094,,0.734838518788265,0.6495831990685073,sge_cv,SGE,esm_only [BRCT]
+,,,1683,,0.8501283684273375,0.7403327039113868,sge_cv,SGE,stability
+,,,509,,0.8362294115169132,0.7472012354112465,sge_cv,SGE,stability [RING]
+,,,1094,,0.8524796868243166,0.7423408144264423,sge_cv,SGE,stability [BRCT]
+,,,1683,,0.48899215857978745,0.25200977373860084,sge_cv,SGE,ppi
+,,,509,,0.5478642739795273,0.2728482715393345,sge_cv,SGE,ppi [RING]
+,,,1094,,0.4704008011470969,0.25970552861651,sge_cv,SGE,ppi [BRCT]
+,,,1683,,0.8479441149544242,0.7480765576172276,sge_cv,SGE,all
+,,,509,,0.8370719069884999,0.7611115951392226,sge_cv,SGE,all [RING]
+,,,1094,,0.8464961194437491,0.7469248435701312,sge_cv,SGE,all [BRCT]
